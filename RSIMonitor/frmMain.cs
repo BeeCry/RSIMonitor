@@ -44,6 +44,7 @@ namespace RSIMonitor
             Logger.Info("Total Ticket: " + _customTickets.Count);
 
             Text = "RSI Monitor by BeeCry!";
+            TopMost = true;
         }
 
 

@@ -69,7 +69,7 @@ namespace RSIMonitor
             this.dgvData.Location = new System.Drawing.Point(0, 0);
             this.dgvData.Name = "dgvData";
             this.dgvData.ReadOnly = true;
-            this.dgvData.Size = new System.Drawing.Size(384, 520);
+            this.dgvData.Size = new System.Drawing.Size(784, 520);
             this.dgvData.TabIndex = 2;
             // 
             // nudTop
@@ -102,7 +102,7 @@ namespace RSIMonitor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(384, 561);
+            this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.nudTop);
             this.Controls.Add(this.dgvData);
@@ -110,8 +110,8 @@ namespace RSIMonitor
             this.Controls.Add(this.btnStart);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(400, 600);
-            this.MinimumSize = new System.Drawing.Size(400, 600);
+            this.MaximumSize = new System.Drawing.Size(800, 600);
+            this.MinimumSize = new System.Drawing.Size(800, 600);
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmMain";
