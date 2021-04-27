@@ -1,6 +1,6 @@
 # RSIMonitor
 RSI Monitor
-
+![Alt text](/RSIMonitor/Images/screenshot.png?raw=true "screenshot")
 # Donations
 I develop and maintain this package on my own for free in my spare time. Donations are greatly appreciated.
 
