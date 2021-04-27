@@ -41,7 +41,7 @@ namespace RSIMonitor
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(297, 526);
+            this.btnStart.Location = new System.Drawing.Point(697, 526);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(75, 23);
             this.btnStart.TabIndex = 0;
@@ -51,7 +51,7 @@ namespace RSIMonitor
             // 
             // btnRestart
             // 
-            this.btnRestart.Location = new System.Drawing.Point(216, 526);
+            this.btnRestart.Location = new System.Drawing.Point(616, 526);
             this.btnRestart.Name = "btnRestart";
             this.btnRestart.Size = new System.Drawing.Size(75, 23);
             this.btnRestart.TabIndex = 1;
@@ -74,7 +74,7 @@ namespace RSIMonitor
             // 
             // nudTop
             // 
-            this.nudTop.Location = new System.Drawing.Point(79, 529);
+            this.nudTop.Location = new System.Drawing.Point(565, 529);
             this.nudTop.Minimum = new decimal(new int[] {
             10,
             0,
@@ -92,7 +92,7 @@ namespace RSIMonitor
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 531);
+            this.label1.Location = new System.Drawing.Point(498, 531);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(61, 13);
             this.label1.TabIndex = 4;

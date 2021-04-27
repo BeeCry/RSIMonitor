@@ -182,6 +182,7 @@
     <Content Include="bitcoin.ico" />
     <Content Include="Icons\bitcoin.ico" />
     <Content Include="Icons\bitcoin.png" />
+    <Content Include="Images\screenshot.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Lib\Lib.csproj">
